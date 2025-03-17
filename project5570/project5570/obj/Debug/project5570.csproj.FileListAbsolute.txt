@@ -1,0 +1,14 @@
+C:\assignmen C#\project5570\project5570\bin\Debug\project5570.exe.config
+C:\assignmen C#\project5570\project5570\bin\Debug\project5570.exe
+C:\assignmen C#\project5570\project5570\bin\Debug\project5570.pdb
+C:\assignmen C#\project5570\project5570\obj\Debug\project5570.csproj.AssemblyReference.cache
+C:\assignmen C#\project5570\project5570\obj\Debug\project5570.Form1.resources
+C:\assignmen C#\project5570\project5570\obj\Debug\project5570.Form2.resources
+C:\assignmen C#\project5570\project5570\obj\Debug\project5570.Form3.resources
+C:\assignmen C#\project5570\project5570\obj\Debug\project5570.Form4.resources
+C:\assignmen C#\project5570\project5570\obj\Debug\project5570.Properties.Resources.resources
+C:\assignmen C#\project5570\project5570\obj\Debug\project5570.csproj.GenerateResource.cache
+C:\assignmen C#\project5570\project5570\obj\Debug\project5570.csproj.CoreCompileInputs.cache
+C:\assignmen C#\project5570\project5570\obj\Debug\project5570.exe
+C:\assignmen C#\project5570\project5570\obj\Debug\project5570.pdb
+C:\assignmen C#\project5570\project5570\obj\Debug\project5570.Form5.resources
